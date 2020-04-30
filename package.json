@@ -1,0 +1,12 @@
+{
+  "name": "xstate-app",
+  "version": "1.0.0",
+  "description": "App to demo use of XState to manage states & track history",
+  "main": "index.js",
+  "author": "Harrison Kamau",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "xstate": "^4.9.1"
+  }
+}
